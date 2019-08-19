@@ -1,0 +1,7 @@
+C:\Users\tasik\Desktop\Новая папка\Task_2.1\Task_2.1\bin\Debug\Task_2.1.exe.config
+C:\Users\tasik\Desktop\Новая папка\Task_2.1\Task_2.1\bin\Debug\Task_2.1.exe
+C:\Users\tasik\Desktop\Новая папка\Task_2.1\Task_2.1\bin\Debug\Task_2.1.pdb
+C:\Users\tasik\Desktop\Новая папка\Task_2.1\Task_2.1\obj\Debug\Task_2.1.csprojAssemblyReference.cache
+C:\Users\tasik\Desktop\Новая папка\Task_2.1\Task_2.1\obj\Debug\Task_2.1.csproj.CoreCompileInputs.cache
+C:\Users\tasik\Desktop\Новая папка\Task_2.1\Task_2.1\obj\Debug\Task_2.1.exe
+C:\Users\tasik\Desktop\Новая папка\Task_2.1\Task_2.1\obj\Debug\Task_2.1.pdb

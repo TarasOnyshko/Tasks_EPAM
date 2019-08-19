@@ -1,0 +1,7 @@
+C:\Users\tasik\Desktop\EPAM\Third_Task\Third_Task\bin\Debug\Third_Task.exe.config
+C:\Users\tasik\Desktop\EPAM\Third_Task\Third_Task\bin\Debug\Third_Task.exe
+C:\Users\tasik\Desktop\EPAM\Third_Task\Third_Task\bin\Debug\Third_Task.pdb
+C:\Users\tasik\Desktop\EPAM\Third_Task\Third_Task\obj\Debug\Third_Task.csprojAssemblyReference.cache
+C:\Users\tasik\Desktop\EPAM\Third_Task\Third_Task\obj\Debug\Third_Task.csproj.CoreCompileInputs.cache
+C:\Users\tasik\Desktop\EPAM\Third_Task\Third_Task\obj\Debug\Third_Task.exe
+C:\Users\tasik\Desktop\EPAM\Third_Task\Third_Task\obj\Debug\Third_Task.pdb

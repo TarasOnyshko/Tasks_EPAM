@@ -1,0 +1,7 @@
+C:\Users\tasik\Desktop\EPAM\First_Task\First_Task\bin\Debug\First_Task.exe.config
+C:\Users\tasik\Desktop\EPAM\First_Task\First_Task\bin\Debug\First_Task.exe
+C:\Users\tasik\Desktop\EPAM\First_Task\First_Task\bin\Debug\First_Task.pdb
+C:\Users\tasik\Desktop\EPAM\First_Task\First_Task\obj\Debug\First_Task.csprojAssemblyReference.cache
+C:\Users\tasik\Desktop\EPAM\First_Task\First_Task\obj\Debug\First_Task.csproj.CoreCompileInputs.cache
+C:\Users\tasik\Desktop\EPAM\First_Task\First_Task\obj\Debug\First_Task.exe
+C:\Users\tasik\Desktop\EPAM\First_Task\First_Task\obj\Debug\First_Task.pdb
