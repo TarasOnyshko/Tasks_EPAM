@@ -1,0 +1,1 @@
+All of the tasks are done. Sorry for not perfect names of project folders. Hope my work is not the worst :)
