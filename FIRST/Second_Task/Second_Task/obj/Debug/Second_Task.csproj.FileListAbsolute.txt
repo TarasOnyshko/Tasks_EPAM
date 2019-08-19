@@ -1,7 +1,0 @@
-C:\Users\tasik\Desktop\EPAM\Second_Task\Second_Task\bin\Debug\Second_Task.exe.config
-C:\Users\tasik\Desktop\EPAM\Second_Task\Second_Task\bin\Debug\Second_Task.exe
-C:\Users\tasik\Desktop\EPAM\Second_Task\Second_Task\bin\Debug\Second_Task.pdb
-C:\Users\tasik\Desktop\EPAM\Second_Task\Second_Task\obj\Debug\Second_Task.csprojAssemblyReference.cache
-C:\Users\tasik\Desktop\EPAM\Second_Task\Second_Task\obj\Debug\Second_Task.csproj.CoreCompileInputs.cache
-C:\Users\tasik\Desktop\EPAM\Second_Task\Second_Task\obj\Debug\Second_Task.exe
-C:\Users\tasik\Desktop\EPAM\Second_Task\Second_Task\obj\Debug\Second_Task.pdb

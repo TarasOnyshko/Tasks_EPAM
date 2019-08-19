@@ -1,7 +1,0 @@
-C:\Users\tasik\source\repos\Fourth_Task\Fourth_Task\bin\Debug\Fourth_Task.exe.config
-C:\Users\tasik\source\repos\Fourth_Task\Fourth_Task\bin\Debug\Fourth_Task.exe
-C:\Users\tasik\source\repos\Fourth_Task\Fourth_Task\bin\Debug\Fourth_Task.pdb
-C:\Users\tasik\source\repos\Fourth_Task\Fourth_Task\obj\Debug\Fourth_Task.csprojAssemblyReference.cache
-C:\Users\tasik\source\repos\Fourth_Task\Fourth_Task\obj\Debug\Fourth_Task.csproj.CoreCompileInputs.cache
-C:\Users\tasik\source\repos\Fourth_Task\Fourth_Task\obj\Debug\Fourth_Task.exe
-C:\Users\tasik\source\repos\Fourth_Task\Fourth_Task\obj\Debug\Fourth_Task.pdb

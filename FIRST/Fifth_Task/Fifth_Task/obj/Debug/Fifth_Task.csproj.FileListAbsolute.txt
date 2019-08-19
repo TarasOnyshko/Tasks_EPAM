@@ -1,7 +1,0 @@
-C:\Users\tasik\Desktop\EPAM\Fifth_Task\Fifth_Task\bin\Debug\Fifth_Task.exe.config
-C:\Users\tasik\Desktop\EPAM\Fifth_Task\Fifth_Task\bin\Debug\Fifth_Task.exe
-C:\Users\tasik\Desktop\EPAM\Fifth_Task\Fifth_Task\bin\Debug\Fifth_Task.pdb
-C:\Users\tasik\Desktop\EPAM\Fifth_Task\Fifth_Task\obj\Debug\Fifth_Task.csprojAssemblyReference.cache
-C:\Users\tasik\Desktop\EPAM\Fifth_Task\Fifth_Task\obj\Debug\Fifth_Task.csproj.CoreCompileInputs.cache
-C:\Users\tasik\Desktop\EPAM\Fifth_Task\Fifth_Task\obj\Debug\Fifth_Task.exe
-C:\Users\tasik\Desktop\EPAM\Fifth_Task\Fifth_Task\obj\Debug\Fifth_Task.pdb
