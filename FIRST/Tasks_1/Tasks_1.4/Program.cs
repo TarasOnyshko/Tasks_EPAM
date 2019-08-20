@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_1._1
+namespace Tasks_1._4
 {
-    class Rectangle
+
+    static class Rectangle
     {
-        private double a, b;
+        private static double a, b;
 
-        public Rectangle(double x1, double y1, double x2, double y2)
+        public static double Perimeter(double x1, double y1, double x2, double y2)
         {
-
             if (y1 > y2)
             {
                 a = y1 - y2;
@@ -31,21 +31,29 @@ namespace Task_1._1
             {
                 b = x2 - x1;
             }
-
-        }
-
-        public double Perimeter()
-        {
             return 2 * (a + b);
         }
 
-        public double Square()
+        public static double Square(double x1, double y1, double x2, double y2)
         {
             return a * b;
         }
     }
 
+    static class Circle
+    {
+        const double PI = 3.14;
 
+        public static double Length(double r)
+        {
+            return 2 * PI * r;
+        }
+        public static double Square(double r)
+        {
+            return PI * r * r;
+        }
+
+    }
 
 
     class Program
@@ -53,6 +61,9 @@ namespace Task_1._1
         static void Main(string[] args)
         {
             double x1, y1, x2, y2;
+            double r;
+
+            Console.WriteLine("---For rectangle---");
 
             Console.Write("Enter x1:");
             x1 = Convert.ToDouble(Console.ReadLine());
@@ -64,12 +75,19 @@ namespace Task_1._1
             Console.Write("Enter y2:");
             y2 = Convert.ToDouble(Console.ReadLine());
 
-            Rectangle my_rectangle = new Rectangle(x1, y1, x2, y2);
+            Console.WriteLine();
+            Console.WriteLine("---For circle---");
+            Console.Write("Enter radius:");
+            r = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine();
+            Console.WriteLine("Results:");
 
-            Console.WriteLine("Perimetr = " + my_rectangle.Perimeter());
-            Console.WriteLine("Square = " + my_rectangle.Square());
+            Console.Write("Rectangel`s Perimeter = " + Rectangle.Perimeter(x1, y1, x2, y2) + "\t");
+            Console.Write("Circle`s Length = " + Circle.Length(r) + "\n");
+
+            Console.Write("Rectangel`s Square = " + Rectangle.Square(x1, y1, x2, y2) + "\t        ");
+            Console.Write("Circle`Square = " + Circle.Square(r));
 
             Console.ReadLine();
 
