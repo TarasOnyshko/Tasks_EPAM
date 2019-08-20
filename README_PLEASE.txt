@@ -1,1 +1,1 @@
-All of the tasks are done. Sorry for not perfect names of project folders. Hope my work is not the worst :)
+All of the tasks are done(there are some diffirents between folders `first` and `second` but they do have all tasks with all classes(try .sln files) etc.). Sorry for not perfect names of project folders. Hope my work is not the worst :)
